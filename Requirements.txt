@@ -1,0 +1,40 @@
+Requirements
+
+Modules Required-
+
+1. TensorFlow
+To install TensorFlow on Jupyter Notebook run the following command Jupyter Notebook
+ a. !pip3 install tensorflow
+
+
+2. Tflearn
+To install Tflearn on Jupyter Notebook run the following command Jupyter Notebook
+ a. !pip3 install tflearn
+
+
+3. NLTK
+To install NLTK on Jupyter Notebook run the following command Jupyter Notebook
+ a. !pip3 install nltk
+
+
+Other Basic Libraries required for this project-
+
+1. Numpy 
+import numpy as np
+(!pip3 install numpy)
+
+2. random
+import random
+
+3. json
+import json
+
+4.pickle 
+import pickle
+
+5.warnings
+import warnings 
+
+
+
+Note - If any issue occurs - Please 'Restart and Clear Output' in kernel after installing all the libraries and then run each cell.
